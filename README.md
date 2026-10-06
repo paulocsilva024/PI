@@ -7,8 +7,8 @@ Este deve auxiliar identificando o que está acabando - e não pode faltar - ger
 
 Alguns perfis principais pra direcionar as funcionalidades de sistema:
 
-- Pessoas com deficiência visual:
-Terão perfil como os que estão a seguir, mas sem poder visualizar
+- Pessoas com deficiência visual leve/moderada:
+Terão perfil como os que estão a seguir, porém com dificuldade de visualizar
 - Pessoas que moram sozinhas / Estudantes / Jovens adultos:
 Estes têm pouco tempo, costumam esquecer o que compraram e acabam jogando comida fora por falta de planejamento
 - Famílias e responsáveis pela gestão de casa:
@@ -29,4 +29,7 @@ Buscam reduzir custos no mercado e evitar o desperdício de alimentos por valore
 
 Existem várias alternativas no mercado com a mesma ideia principal.
 
-Apps de controle de despensa / validade: Ex: Out of Milk
+- Apps de controle de despensa / validade: Ex: Out of Milk, Pantry Check, NoWaste, Despensa Inteligente
+> Pontos Fortes: focados em listas e alertas de validade
+> Pontos Fracos: Exigem muito trabalho manual para cadastrar e atualizar quantidades; muitos não sugerem receitas.
+
